@@ -8,21 +8,16 @@ I hope to contribute to keeping an open web, develop apps, and building communit
 
 **Languages:**
 
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-
-
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 **Cloud**
 
