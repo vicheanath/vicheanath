@@ -9,7 +9,7 @@ I hope to contribute to keeping an open web, develop apps, and building communit
 **Languages:**
 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SaSS-05122A?style=flat&logo=SaSS&logoColor=CD6799)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
@@ -23,7 +23,9 @@ I hope to contribute to keeping an open web, develop apps, and building communit
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![DigitailOcen](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean&logoColor=#fff)
-![DigitailOcen](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase&logoColor=#fff)
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase&logoColor=#fff)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=#5842da)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=#fff)
 
 
 **OS**
@@ -31,7 +33,7 @@ I hope to contribute to keeping an open web, develop apps, and building communit
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple&logoColor=#fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=#fff)
 ![Window](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=#fff)
-![Window](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos&logoColor=#fff)
+![Cenos](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos&logoColor=#fff)
 
 **Dev Tools**
 
@@ -50,8 +52,10 @@ I hope to contribute to keeping an open web, develop apps, and building communit
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
 ### Framwork
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+
+![Djagno](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=#082d1f)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=#5ccfef)
+![Laravel](https://img.shields.io/badge/-React-05122A?style=flat&logo=laravel&logoColor=BF0000)
 
 
   
