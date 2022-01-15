@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Vichea 😎️
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicheanath&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
-I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
+I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), Django , PHP and DevOps
 
-###### A Web Developer 🚀 with experience of building React JS & PHP
-
+###### A Web Developer 🚀 with experience of building React JS & Django
 
 **Languages:**
 
