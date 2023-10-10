@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Vichea 😎️
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicheanath&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
 I want to contribute to keeping an open web, developing apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), Django, PHP, React Native
 
