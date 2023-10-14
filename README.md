@@ -4,7 +4,7 @@ I want to contribute to keeping an open web, developing apps, and building commu
 
 ###### A Web Developer 🚀 with experience of building React JS & Django
 
-![Vichea GitHub stats](https://github-readme-stats.vercel.app/api?username=vicheanath&show_icons=true)
+![Vichea GitHub stats](https://github-readme-stats.vercel.app/api?username=vicheanath&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=vicheanath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
