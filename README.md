@@ -13,8 +13,7 @@ I want to contribute to keeping an open web, developing apps, and building commu
 
 [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=vicheanath\&layout=compact\&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicheanath\&layout=compact)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vicheanath&theme=dark&hide_border=false)
 
