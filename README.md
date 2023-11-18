@@ -1,8 +1,16 @@
 ### Hi there 👋, I'm Vichea 😎️
+A software engineer with experience in every software development life-cycle
+I want to contribute to keeping an open web, developing apps, and building communities.
+- Python: every programmer should try this shortcut life easily.
+- Algorithm: coding without knowing algo is a bad dream.
+- PHP: Web server script.
+- Java: Enterprise application never forgot.
+- Golang: Concurrency build-in and fast compile time.
+- React: frontend engineer never knew about this.
+- ReactNative: from the web to a cross-platform mobile app becomes easy.
+- TypeScript: TypeSafe for javascript
+- Django: large scaling back-end with Python used by Instagram
 
-I want to contribute to keeping an open web, developing apps, and building communities. Some languages I enjoy working with are JavaScript TypeScript NodeJS, Java, Django, PHP, React Native
-
-###### A Web Developer 🚀 with experience of building React JS & Django
 
 | [![Vichea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vicheanath\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Vichea's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vicheanath\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=vicheanath&theme=dark&hide_border=false) |
 | ------------- | ------------- |
