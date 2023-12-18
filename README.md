@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Vichea 😎
-A software engineer from the heart of Cambodia 🇰🇭 with experience in every software development.
+A software engineer from the heart of Cambodia 🇰🇭 with experience in software development.
 I want to contribute to keeping an open web, developing apps, and building communities.
 - Python: every programmer should try this shortcut. life will be easy.
 - Algorithm: coding without knowing algo is a bad dream.
