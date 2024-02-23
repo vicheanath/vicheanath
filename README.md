@@ -6,6 +6,9 @@ I want to contribute to keeping an open web, developing apps, and building commu
 | ------------- | ------------- |
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicheanath&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=vicheanath\&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=vicheanath\&layout=compact\&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only) |
 
+
+<figure><embed src="https://wakatime.com/share/@vicheanath/8e6d9ea8-1532-49b2-b1aa-43fda9826109.svg"></embed></figure>
+
 [![An image of @vicheanath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vicheanath)](https://holopin.io/@vicheanath)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vicheanath/)
