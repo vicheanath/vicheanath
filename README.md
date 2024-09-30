@@ -2,8 +2,6 @@
 A software engineer with experience in software development.
 I want to contribute to keeping an open web, developing apps, and building communities.
 
-| [![Vichea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vicheanath\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Vichea's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vicheanath\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=vicheanath&theme=dark&hide_border=false) |
-
 
 [![An image of @vicheanath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vicheanath)](https://holopin.io/@vicheanath)
 
