@@ -2,6 +2,7 @@
 A software engineer with experience in software development.
 I want to contribute to keeping an open web, developing apps, and building communities.
 
+<figure><embed src="https://wakatime.com/share/@vicheanath/8e6d9ea8-1532-49b2-b1aa-43fda9826109.svg"></embed></figure>
 
 [![An image of @vicheanath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vicheanath)](https://holopin.io/@vicheanath)
 
